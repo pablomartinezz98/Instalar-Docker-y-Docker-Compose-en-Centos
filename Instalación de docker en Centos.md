@@ -13,4 +13,5 @@ Miramos el servicio
 ![Instalación](/Fotos/Captura.PNG)
 
 Y vemos la version de Docker
+
 ![Instalación](/Fotos/Captura1.PNG)
