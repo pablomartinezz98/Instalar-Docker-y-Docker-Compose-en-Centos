@@ -7,3 +7,7 @@
 2.- Instalación de docker-compose en Centos
 
 3.- Comprobación
+
+# Referencias
+
+https://www.howtoforge.com/install-and-use-docker-compose-on-centos-8/
